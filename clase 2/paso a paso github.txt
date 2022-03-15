@@ -1,0 +1,30 @@
+-----------------------------------------------------------------
+Crear el repositorio en web y local:
+1) Entrar github
+2) Crear cuenta
+3) crear repositorio (botón verde)
+4) elegir nombre del repositorio
+5) Seleccionar todo el texto de inicialización:
+
+echo "# repoDePrueba" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/estebanpiazza/repoDePrueba.git
+git push -u origin main
+
+6) abrir git en la carpeta donde quiero inicializar el repositorio ( o la consola de comandos)
+7) pego el codigo y toco enter hasta que termine
+-----------------------------------------------------------------
+Comandos basicos:
+1) git clone link  > copia el repositorio en la carpeta donde estoy
+2) git add . > añade al repositorio los archivos de forma local
+3) git commit -m "mensaje" > añade los cambios al repositorio con su mensaje de cambios
+4) git push > sube todo a la nuve
+5) git pull > me trae los cambios de la nube
+-----------------------------------------------------------------
+
+
+
+
