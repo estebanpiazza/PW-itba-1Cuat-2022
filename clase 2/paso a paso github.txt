@@ -24,7 +24,12 @@ Comandos basicos:
 4) git push > sube todo a la nuve
 5) git pull > me trae los cambios de la nube
 -----------------------------------------------------------------
-
+Conectar a vercel:
+1) Crear la cuenta con mi github
+2) Sincronizar las cuentas
+3) crear nuevo proyecto
+4) Hacer el deploy del proyecto 
+5) Revisar el link
 
 
 
